@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fashion Recommendation System**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, Data Structure and Algorithm**
 
 - 💬 Ask me about **Android, Frontend Web Devlopment**
 
@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshikha2004&show_icons=true&locale=en&layout=compact" alt="deepshikha2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepshikha2004&show_icons=true&locale=en" alt="deepshikha2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha2004&" alt="deepshikha2004" /></p>
